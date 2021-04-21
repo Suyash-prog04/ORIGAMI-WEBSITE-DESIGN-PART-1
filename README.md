@@ -1,4 +1,4 @@
 # DESIGN-ORIGAMI-WEBSITE---1
 
 OUTPUT LINK
-https://suwarna-cloud.github.io/DESIGN-ORIGAMI-WEBSITE---1/
+https://suyash-prog04.github.io/ORIGAMI-WEBSITE-DESIGN-PART-1/
